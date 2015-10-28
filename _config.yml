@@ -1,0 +1,23 @@
+name: arun
+favicon: null
+layout_spectrum: 0.5658992296084762
+typography_spectrum: 0.03580678254365921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5118223722092807
+  lightness: 0.19233591784723103
+  saturation: 0.5323736630380154
+  rhythmicContrast: 0.22989077330566943
+purpose: []
