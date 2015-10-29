@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[arun]]></title>
         <description><![CDATA[arun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 04:42:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 29 Oct 2015 06:24:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Star Wars: The Force Awakens Trailer (Official)]]></title>
+            <description><![CDATA[<article><h1>Star Wars: The Force Awakens Trailer (Official)</h1><p>Watch the official trailer for Star Wars: The Force Awakens, coming to theaters December 18, 2015.</p><img src="https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=sGbxmsDFVnE</link>
+            <guid isPermaLink="false">421f02ab-98dd-4c9a-b6e3-af3e662fdf80</guid>
+            <pubDate>Thu, 29 Oct 2015 06:24:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid - I Got In Duuude!]]></title>
             <description><![CDATA[<article><h1>The Grid - I Got In Duuude!</h1><p>Foray into the world of A.I. websites</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7812ae-e65f-426f-a447-f3bf2f778e18.PNG"></article>]]></description>
-            <link>undefinedthe-grid-i-got-in-duuude/index.html</link>
+            <link>https://thegrid.ai/arun/the-grid-i-got-in-duuude/index.html</link>
             <guid isPermaLink="false">9f129c12-bf9a-472a-b1df-bb4f85439e97</guid>
             <pubDate>Thu, 29 Oct 2015 04:42:23 GMT</pubDate>
         </item>
