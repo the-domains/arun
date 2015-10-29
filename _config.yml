@@ -1,7 +1,8 @@
 name: arun
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.03580678254365921
+title: A Run For Your
 cta:
   domain: null
   bucket: null
