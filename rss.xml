@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[arun]]></title>
-        <description><![CDATA[arun]]></description>
+        <title><![CDATA[A Run For Your]]></title>
+        <description><![CDATA[A Run For Your]]></description>
         <link>https://thegrid.ai/arun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 06:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2015 07:00:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid - I Got In Duuude!]]></title>
+            <description><![CDATA[<article><h1>The Grid - I Got In Duuude!</h1><p>Foray into the world of A.I. websites</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7812ae-e65f-426f-a447-f3bf2f778e18.PNG"></article>]]></description>
+            <link>https://thegrid.ai/arun/the-grid-i-got-in-duuude/index.html</link>
+            <guid isPermaLink="false">9f129c12-bf9a-472a-b1df-bb4f85439e97</guid>
+            <pubDate>Tue, 03 Nov 2015 06:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://ksr-ugc.imgix.net/projects/2119308/photo-original.jpg?v=1446266110&w=338&h=250&fit=crop&auto=format&q=92&s=8fcbd1cc96af4cbe75dcdf3a67a955f1">]]></description>
+            <link>https://thegrid.ai/arun/43651d19-33e1-4c2a-9d76-7c3530ebde08/index.html</link>
+            <guid isPermaLink="false">43651d19-33e1-4c2a-9d76-7c3530ebde08</guid>
+            <pubDate>Tue, 03 Nov 2015 07:00:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BLOCKS - The World's First Modular Smartwatch]]></title>
             <description><![CDATA[<article><h1>BLOCKS - The World's First Modular Smartwatch</h1><p>BLOCKS Wearables is raising funds for BLOCKS - The World's First Modular Smartwatch on Kickstarter! The strap is made of several modules, each with their own function. Choose the modules you want to build a smartwatch unique to you.</p><img src="https://ksr-ugc.imgix.net/projects/2123439/photo-original.jpg?v=1445511926&w=1536&h=1152&fit=crop&auto=format&q=92&s=20b9d1e44768a070e5327f7faa8cc02a"></article>]]></description>
@@ -19,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=sGbxmsDFVnE</link>
             <guid isPermaLink="false">421f02ab-98dd-4c9a-b6e3-af3e662fdf80</guid>
             <pubDate>Thu, 29 Oct 2015 06:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid - I Got In Duuude!]]></title>
-            <description><![CDATA[<article><h1>The Grid - I Got In Duuude!</h1><p>Foray into the world of A.I. websites</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7812ae-e65f-426f-a447-f3bf2f778e18.PNG"></article>]]></description>
-            <link>https://thegrid.ai/arun/the-grid-i-got-in-duuude/index.html</link>
-            <guid isPermaLink="false">9f129c12-bf9a-472a-b1df-bb4f85439e97</guid>
-            <pubDate>Thu, 29 Oct 2015 04:42:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
